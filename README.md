@@ -2,6 +2,7 @@
 
 ## Game Description
 
+![Game UI Preview](ui.png)
 "Who Will Be a Billionaire?" is an interactive investment simulation game. You start with a virtual portfolio of $10,000 and choose one of five assets to invest in:
 
 - TechNova
@@ -11,6 +12,11 @@
 - CryptoX
 
 For each asset, you will face a series of real-world inspired events and must make strategic decisions at each step. Your choices will multiply or reduce your portfolio value based on your risk appetite and judgment. The goal is to grow your portfolio to $1,000,000,000 (one billion dollars) through wise investment decisions. If you reach billionaire status, you win!
+
+
+## Play Online
+
+Click [this link](https://tycoon-tales-ui.lovable.app/) to play the game interactively in your browser!
 
 ## Downloading the Game
 
